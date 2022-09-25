@@ -1,0 +1,14 @@
+19.09.2022
+-----------
+
+-Added following commands:
+    -!view_words
+    -!add_word
+    -!sort_words
+
+-Updated "!fix" commands:
+    !fix should now correctly reset all variables back to default!
+
+-Fixed a bug that deleted a word when adding another
+-Fixed a bug where "!view_word" broke when adding another word
+-Fixed a bug that display the wrong amount if lives left
