@@ -12,3 +12,8 @@
 -Fixed a bug that deleted a word when adding another
 -Fixed a bug where "!view_word" broke when adding another word
 -Fixed a bug that display the wrong amount if lives left
+
+01.10.2022
+-----------
+-If game is played via a .exe, the console should clear after every guess!
+
