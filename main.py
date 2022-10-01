@@ -143,6 +143,7 @@ def guess_letter():
         print(red + "You already guessed that letter!")
         print("-" * 20)
         guess_letter()
+    os.system('cls')
 
 
 def check_answer():
